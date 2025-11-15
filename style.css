@@ -570,8 +570,8 @@ nav ul a:hover::after{
   }
 
   .swiper {
-  width: 650px;
-  height: 300px;
+  width: 550px;
+  height: 200px;
   padding: 0 10px;
 }
 
@@ -616,9 +616,10 @@ nav ul a:hover::after{
 }
 
 .footer{
-  margin-top: 540px;
+  margin-top: 240px;
 }
 }
+
 
 
 
