@@ -642,7 +642,7 @@ nav ul a:hover::after{
   .swiper-slide img{
   width: 100%;
   height: fit-content;
-  margin-top: -60px;  
+  margin-top: -90px;  
 }
 
 .watch-online{
@@ -684,6 +684,7 @@ nav ul a:hover::after{
   margin-top: 340px;
 }
 }
+
 
 
 
