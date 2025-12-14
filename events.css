@@ -90,28 +90,6 @@ nav ul a:hover::after{
 .nav-menu li{
   position: relative;
 }
-
-.dropdown-menu{
-  position: absolute;
-  width: 150px;
-  display: none;
-  text-align: start;
-  background-color: #e19d35;
-  padding-bottom: 5px;
-  border-radius: 5px;
-  transition: .7s ease-in-out;
-  z-index: 100;
- 
-}
-
-.nav-menu li:hover .dropdown-menu{
-  display: block;
-}
-
-.abouts:hover span i{
-  transform: rotate(180deg);
-}
-
 .donatee a{
   color: rgba(0, 0, 0, 0.95);
   font-size: 12.5px;
@@ -145,6 +123,7 @@ nav ul a:hover::after{
   width: 100%;
   gap: 50px;
   margin-top: -50px;
+  margin-right: 2%;
   position: absolute;
 }
 
@@ -525,4 +504,5 @@ nav ul a:hover::after{
   .footer{
     margin-top: 540px;
   }
+
   }
