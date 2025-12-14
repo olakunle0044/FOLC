@@ -11,6 +11,9 @@
 
 }
 
+html{
+  overflow-x: hidden;
+
 body{
   background-color: rgb(251, 251, 251);
 }
@@ -676,6 +679,7 @@ nav ul a:hover::after{
     margin-top: 240px;
   }
   }
+
 
 
 
