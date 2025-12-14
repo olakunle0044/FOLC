@@ -11,6 +11,9 @@
 
 }
 
+html{
+  overflow-x: hidden;
+
 body{
   background-color: rgb(251, 251, 251);
 }
@@ -123,7 +126,6 @@ nav ul a:hover::after{
   width: 100%;
   gap: 50px;
   margin-top: -50px;
-  margin-right: 2%;
   position: absolute;
 }
 
@@ -454,6 +456,7 @@ nav ul a:hover::after{
     align-items: center;
     text-align: center;
     margin-left: 20%;
+    margin-right: 5%;
     
   }
 
@@ -495,7 +498,8 @@ nav ul a:hover::after{
   }
 
   .footer{
-    margin-top: 540px;
+    margin-top: 240px;
   }
 
   }
+
