@@ -472,8 +472,13 @@ nav ul a:hover::after{
 
   .swiper {
   width: 450px;
-  height: 250px;
+  height: 300px;
   padding: 0 10px;
+  }
+
+  .swiper-slide img{
+  width: 100%;
+  height: 100%;
   }
 
   .youtube-container p,
@@ -503,6 +508,7 @@ nav ul a:hover::after{
   }
 
   }
+
 
 
 
