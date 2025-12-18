@@ -606,7 +606,7 @@ nav ul a:hover::after{
 @media screen and (max-width: 680px){
   
   .welcome-text{
-    padding-top: 40px;
+    padding-top: 150px;
   }
 
   .welcome-text h1{
@@ -623,11 +623,12 @@ nav ul a:hover::after{
   }
 
   .location-details{
-    display: block;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    justify-content: center;
     align-items: center;
     text-align: center;
-    margin-left: 20%;
-    margin-right: 10%;
   }
 
   .locate-con{
@@ -684,6 +685,7 @@ nav ul a:hover::after{
     margin-top: 300px;
   }
   }
+
 
 
 
