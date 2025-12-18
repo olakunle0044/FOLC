@@ -679,6 +679,10 @@ nav ul a:hover::after{
 
 @media screen and (max-width: 680px){
 
+  header{
+    margin-top: -2px;
+  }
+
   .logo p{
     font-size: 13px;
   }
@@ -776,6 +780,7 @@ nav ul a:hover::after{
     margin-top: 300px;
   }
   }
+
 
 
 
