@@ -636,7 +636,7 @@ nav ul a:hover::after{
 
   .swiper {
   width: 450px;
-  height: 350px;
+  height: 300px;
   padding: 0 10px;
   }
 
@@ -684,6 +684,7 @@ nav ul a:hover::after{
     margin-top: 300px;
   }
   }
+
 
 
 
