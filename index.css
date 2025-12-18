@@ -605,6 +605,10 @@ nav ul a:hover::after{
 }
 
 @media screen and (max-width: 680px){
+
+  header{
+    margin-top: -2px;
+  }
   
   .welcome-text{
     padding-top: 150px;
@@ -686,6 +690,7 @@ nav ul a:hover::after{
     margin-top: 300px;
   }
   }
+
 
 
 
