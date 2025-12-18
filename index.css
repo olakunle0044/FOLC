@@ -627,7 +627,7 @@ nav ul a:hover::after{
     align-items: center;
     text-align: center;
     margin-left: 20%;
-    margin-right: 5%;
+    margin-right: 10%;
   }
 
   .locate-con{
@@ -676,9 +676,10 @@ nav ul a:hover::after{
   }
 
   .footer{
-    margin-top: 240px;
+    margin-top: 300px;
   }
   }
+
 
 
 
