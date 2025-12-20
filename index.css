@@ -622,7 +622,7 @@ nav ul a:hover::after{
   }
 
   .welcome-text{
-    padding-top: 180px;
+    padding-top: 150px;
   }
 
   .welcome-text h1{
@@ -712,5 +712,6 @@ nav ul a:hover::after{
     padding: 10px 0;
   }
   }
+
 
 
