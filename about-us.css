@@ -744,6 +744,7 @@ nav ul a:hover::after{
     text-align: center;
     align-items: center;
     margin-left: 5%;
+    margin-top: -25px;
   }
 
   .leadership-con{
@@ -785,4 +786,5 @@ nav ul a:hover::after{
     padding: 10px 0;
   }
   }
+
 
