@@ -33,7 +33,6 @@ header{
   position: relative;
   top: 0;
   font-family: "Oswald", sans-serif;
-  margin-bottom: 100px;
   
 }
 
@@ -525,4 +524,5 @@ nav ul a:hover::after{
     gap: 15px;
     padding: 10px 0;
   }
+
   }
