@@ -511,6 +511,7 @@ nav ul a:hover::after{
   .about{
       flex-direction: column;
       align-items: center;
+      padding-bottom: 80px;
     }
 
   .about-container,
@@ -529,4 +530,5 @@ nav ul a:hover::after{
     gap: 15px;
     padding: 10px 0;
   }
+
   }
